@@ -1,0 +1,12 @@
+{
+	"name": "websockets/json",
+	"description": "Back-end PHP with websockets",
+	"require": {
+        "cboden/ratchet": "^0.4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chat\\": "src"
+        }
+    }
+}
