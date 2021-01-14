@@ -1,8 +1,8 @@
 {
 	"name": "websockets/json",
-	"description": "Back-end PHP with websockets",
+	"description": "PHP backend for websockets",
 	"require": {
-        "cboden/ratchet": "^0.4.1"
+        "cboden/ratchet": "^0.4"
     },
     "autoload": {
         "psr-4": {
