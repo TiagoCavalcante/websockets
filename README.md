@@ -1,5 +1,5 @@
 # websockets
-A comments system in PHP using websockets
+A comments system in made PHP using websockets
 ## how to init
 To init the back-end execute the command bellow in the directoty `backend`:
 ```bash
